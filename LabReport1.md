@@ -5,3 +5,5 @@
   * cd is used to change directory, but if no argument is specified, it goes to home directory
   * The output is not an error 
 
+2. Path to Directory
+   *
