@@ -1,3 +1,6 @@
 # **CD**
-* ![\\acsnfs4.ucsd.edu\CifsHomes\086\akalakota\My Pictures](Capture.png)
+* ![Image](Capture.png)
+* the working directory was in /home
+* cd is used to change directory, but if no argument is specified, it goes to home directory
+* 
 
