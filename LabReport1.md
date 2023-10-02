@@ -6,4 +6,4 @@
   * The output is not an error 
 
 2. Path to Directory
-   *
+   * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/main/Cd_With_Argument.PNG)
