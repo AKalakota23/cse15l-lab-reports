@@ -1,3 +1,3 @@
 # **CD**
-* ![Pictures](Capture.png)
+* ![Documents](Capture.png)
 
