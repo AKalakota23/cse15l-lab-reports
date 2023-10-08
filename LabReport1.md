@@ -12,7 +12,7 @@
    * the output is not an error because this is a valid command
 
 3. Path to File
-   * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/7c2a8cf45fdfeaa1e1f3962ac4a5d05e92b50ee3/path%20to%20file.png)
+   * ![Image](path to file.png)
    * the working directory was lecture1
    * cd only changes directories. It cannot change to files
    * the output is an error because Hello.java (the file specified) is not a directory
