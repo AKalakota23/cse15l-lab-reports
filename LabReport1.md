@@ -43,4 +43,4 @@
    * cat reads output from file and gives its content as an output. If no argument is given, it simply reads from the standard input
    * the output is not an error
 2. Path to Directory
-   * 
+   * ![Image](
