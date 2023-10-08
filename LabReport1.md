@@ -19,8 +19,9 @@
 
 # **ls**
 1. No Arguments
-   * 
+   * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/167d66af9d8d72045412ab379b4b54af68296360/ls_no_arguments.png)
   
-3. Path to Directory
+2. Path to Directory
+   * ![Image]
 
-5. Path to File
+4. Path to File
