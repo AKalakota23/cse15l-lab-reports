@@ -48,4 +48,7 @@
    * the directory lecture1 is a directory, not a file. Therefore, an error was thrown because cat only reads output from files
    * the output is an error because cat only reads output from files
 3. Path to File
-   * 
+   * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/edc431a643ad3783ae43bd7e31cfd350339f5614/cat_path_to_file.png)
+   * the working directory was lecture1
+   * the path specified was a file, so cat read the contents of the file
+   * the output is not an error
