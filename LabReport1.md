@@ -30,4 +30,12 @@
    * ls listed the files and folders inside the lecture1 directory when we specified that as the path
    * the output is not an error because lecture1 was in the home directory (pwd) 
 
-4. Path to File
+3. Path to File
+   * [Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/be6674a17dce0824cd0ec6b0924c59532cff8bee/ls_path_to_file.png)
+   * the working directory was lecture1
+   * ls just simply listed the name of the file because the pathname was a file. If we wanted to know more about the file, we would have to use other commands
+   * the output is not an error
+
+# **cat**
+1. No Arguments
+   * ![Image]
