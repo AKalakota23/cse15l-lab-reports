@@ -12,6 +12,6 @@
    * the output is not an error because this is a valid command
 
 3. Path to File
-   * ![Image](path to file.png)
+   * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/7c2a8cf45fdfeaa1e1f3962ac4a5d05e92b50ee3/path%20to%20file.png)
    * 
    * 
