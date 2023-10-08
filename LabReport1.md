@@ -31,7 +31,7 @@
    * the output is not an error because lecture1 was in the home directory (pwd) 
 
 3. Path to File
-   * [Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/be6674a17dce0824cd0ec6b0924c59532cff8bee/ls_path_to_file.png)
+   * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/be6674a17dce0824cd0ec6b0924c59532cff8bee/ls_path_to_file.png)
    * the working directory was lecture1
    * ls just simply listed the name of the file because the pathname was a file. If we wanted to know more about the file, we would have to use other commands
    * the output is not an error
@@ -43,4 +43,9 @@
    * cat reads output from file and gives its content as an output. If no argument is given, it simply reads from the standard input
    * the output is not an error
 2. Path to Directory
-   * ![Image](
+   * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/c1974d2f66df6c04fc3f42bb889082783b554dcd/cat_path_to_dir.png)
+   * the working directory was home directory
+   * the directory lecture1 is a directory, not a file. Therefore, an error was thrown because cat only reads output from files
+   * the output is an error because cat only reads output from files
+3. Path to File
+   * 
