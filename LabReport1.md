@@ -20,8 +20,14 @@
 # **ls**
 1. No Arguments
    * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/167d66af9d8d72045412ab379b4b54af68296360/ls_no_arguments.png)
+   * the working directory was home
+   * ls lists the files and folders inside a directory. We were in home directory and the folder inside the home directory was lecture 1
+   * the output is not an error
   
 2. Path to Directory
-   * ![Image]
+   * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/f28d3b6199e82cee273e1d25f63c0966ec5bfc99/ls_path%2Bto_dir.png)
+   * the working directory was home
+   * ls listed the files and folders inside the lecture1 directory when we specified that as the path
+   * the output is not an error because lecture1 was in the home directory (pwd) 
 
 4. Path to File
