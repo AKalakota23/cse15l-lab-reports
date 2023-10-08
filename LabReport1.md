@@ -1,4 +1,4 @@
-# **CD**
+# **Cd**
 1. No Arguments
    * ![Image](Capture.PNG)
    * the working directory was home directory 
@@ -19,7 +19,7 @@
 
 # **ls**
 1. No Arguments
-   * d
+   * 
   
 3. Path to Directory
 
