@@ -19,19 +19,19 @@
 
 # **ls**
 1. No Arguments
-   * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/167d66af9d8d72045412ab379b4b54af68296360/ls_no_arguments.png)
+   * ![Image](ls_no_arguments.png)
    * the working directory was home
    * ls lists the files and folders inside a directory. We were in home directory and the folder inside the home directory was lecture 1
    * the output is not an error
   
 2. Path to Directory
-   * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/f28d3b6199e82cee273e1d25f63c0966ec5bfc99/ls_path%2Bto_dir.png)
+   * ![Image](ls_path+to_dir.png)
    * the working directory was home
    * ls listed the files and folders inside the lecture1 directory when we specified that as the path
    * the output is not an error because lecture1 was in the home directory (pwd) 
 
 3. Path to File
-   * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/be6674a17dce0824cd0ec6b0924c59532cff8bee/ls_path_to_file.png)
+   * ![Image](ls_path_to_file.png)
    * the working directory was lecture1
    * ls just simply listed the name of the file because the pathname was a file. If we wanted to know more about the file, we would have to use other commands
    * the output is not an error
