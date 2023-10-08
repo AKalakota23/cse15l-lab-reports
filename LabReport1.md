@@ -38,19 +38,19 @@
 
 # **cat**
 1. No Arguments
-   * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/2280b7c1cacc6189c9e12bedfc0bd3a870bda78b/cat_no_argu.png)
+   * ![Image](cat_no_argu.png)
    * the working directory was home directory
    * cat reads output from file and gives its content as an output. If no argument is given, it simply reads from the standard input
    * the output is not an error
      
 2. Path to Directory
-   * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/c1974d2f66df6c04fc3f42bb889082783b554dcd/cat_path_to_dir.png)
+   * ![Image](cat_path_to_dir.png)
    * the working directory was home directory
    * the directory lecture1 is a directory, not a file. Therefore, an error was thrown because cat only reads output from files
    * the output is an error because cat only reads output from files
      
 3. Path to File
-   * ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/edc431a643ad3783ae43bd7e31cfd350339f5614/cat_path_to_file.png)
+   * ![Image](cat_path_to_file.png)
    * the working directory was lecture1
    * the path specified was a file, so cat read the contents of the file
    * the output is not an error
