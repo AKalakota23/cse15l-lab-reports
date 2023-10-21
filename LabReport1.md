@@ -1,17 +1,20 @@
 # **Cd**
+<br />
 1. No Arguments
+   '''
    * ![Image](Capture.PNG)
    * the working directory was home directory 
    * cd is used to change directory, but if no argument is specified, it goes to home directory
    * The output is not an error 
-
-2. Path to Directory
+'''
+<br />
+3. Path to Directory
    * ![Image](Cd_With_Argument.PNG)
    * the working directory was home directory
    * cd is used to change directories and the path specified was to lecture1, therefore we switched to lecture1
    * the output is not an error because this is a valid command
 
-3. Path to File
+4. Path to File
    * ![Image](path_to_file.png)
    * the working directory was lecture1
    * cd only changes directories. It cannot change to files
