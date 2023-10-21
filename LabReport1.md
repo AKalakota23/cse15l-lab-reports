@@ -1,12 +1,12 @@
 # **Cd**
 <br />
 1. No Arguments
-   
-   * ![Image](Capture.PNG)
-   * the working directory was home directory 
-   * cd is used to change directory, but if no argument is specified, it goes to home directory
-   * The output is not an error 
-
+   '''
+   ![Image](Capture.PNG)
+   the working directory was home directory 
+    cd is used to change directory, but if no argument is specified, it goes to home directory
+   The output is not an error 
+'''
 <br />
 3. Path to Directory
    * ![Image](Cd_With_Argument.PNG)
