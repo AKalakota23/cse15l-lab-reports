@@ -1,5 +1,6 @@
 # **Cd**
 **no arguments**
+
 3. Path to Directory
    * ![Image](Cd_With_Argument.PNG)
    * the working directory was home directory
