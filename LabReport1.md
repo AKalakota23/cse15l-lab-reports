@@ -6,14 +6,14 @@ No Arguments
 ```
 The working directory was the /home directory. cd is used to change directories, but if no directory is specified, it goes to /home directory. The output is not an error.
 
-2. Path to Directory
+Path to Directory
    ```
    [user@sahara ~]$ cd /home/lecture1
    [user@sahara ~/lecture1]$
    ```
    The working directory was /home directory. cd is used to change directories and the path specified was to lecture1, therefore we switched to lecture1. The output is not an error because this is a valid command.
 
-3. Path to File
+Path to File
    ```
  [user@sahara ~]$ cd lecture1/
  [user@sahara ~/lecture1]$ cd Hello.java 
