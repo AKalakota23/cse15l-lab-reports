@@ -1,6 +1,6 @@
 # **Cd**
 <br />
-1. No Arguments
+ No Arguments
    '''
    ![Image](Capture.PNG)
    the working directory was home directory 
