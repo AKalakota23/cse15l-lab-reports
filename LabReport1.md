@@ -8,16 +8,18 @@ The working directory was the /home directory. cd is used to change directories,
 
 2. Path to Directory
    ```
-   ![Image](Cd_With_Argument.PNG)
-    the working directory was home directory
-    cd is used to change directories and the path specified was to lecture1, therefore we switched to lecture1
-   the output is not an error because this is a valid command
-```
-4. Path to File
-   * ![Image](path_to_file.png)
-   * the working directory was lecture1
-   * cd only changes directories. It cannot change to files
-   * the output is an error because Hello.java (the file specified) is not a directory
+   [user@sahara ~]$ cd /home/lecture1
+   [user@sahara ~/lecture1]$
+   ```
+   The working directory was /home directory. cd is used to change directories and the path specified was to lecture1, therefore we switched to lecture1. The output is not an error because this is a valid command.
+
+3. Path to File
+   ```
+ [user@sahara ~]$ cd lecture1/
+ [user@sahara ~/lecture1]$ cd Hello.java 
+ bash: cd: Hello.java: Not a directory
+   ```
+ The working directory was /lecture1. cd only changes directories. It cannot change to files. The output is an error because Hello.java (the file specified) is not a directory.
 
 # **ls**
 1. No Arguments
