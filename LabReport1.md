@@ -4,7 +4,7 @@
 [user@sahara ~]$ cd
 [user@sahara ~]$
 ```
-
+The working directory was the /home directory. cd is used to change directories, but if no directory is specified, it goes to /home directory. The output is not an error.
 
 3. Path to Directory
    * ![Image](Cd_With_Argument.PNG)
