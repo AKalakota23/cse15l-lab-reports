@@ -2,9 +2,8 @@
 <br />
  1. No Arguments
 ```
-   the working directory was home directory 
-    cd is used to change directory, but if no argument is specified, it goes to home directory
-   The output is not an error 
+[user@sahara ~]$ cd
+[user@sahara ~]$ 
 ```
 <br />
 3. Path to Directory
