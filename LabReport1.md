@@ -6,12 +6,13 @@
 ```
 The working directory was the /home directory. cd is used to change directories, but if no directory is specified, it goes to /home directory. The output is not an error.
 
-3. Path to Directory
+2. Path to Directory
+   ```
    * ![Image](Cd_With_Argument.PNG)
    * the working directory was home directory
    * cd is used to change directories and the path specified was to lecture1, therefore we switched to lecture1
    * the output is not an error because this is a valid command
-
+```
 4. Path to File
    * ![Image](path_to_file.png)
    * the working directory was lecture1
