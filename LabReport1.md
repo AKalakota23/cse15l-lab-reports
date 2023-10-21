@@ -1,9 +1,11 @@
 # **Cd**
-**no arguments**
+1. No Arguments
 ```
 [user@sahara ~]$ cd
 [user@sahara ~]$
 ```
+
+
 3. Path to Directory
    * ![Image](Cd_With_Argument.PNG)
    * the working directory was home directory
