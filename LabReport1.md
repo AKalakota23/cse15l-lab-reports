@@ -1,10 +1,11 @@
 # **Cd**
 <br />
-  No Arguments
+**no arguments:** 
 ```
 [user@sahara ~]$ cd
 [user@sahara ~]$ 
 ```
+This command was run in the home directory. I got this output because cd does not print anything, it changes the working directory. This output is an error because no directory was provided, meaning there was no directory to change to.
 <br />
 3. Path to Directory
    * ![Image](Cd_With_Argument.PNG)
