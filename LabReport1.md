@@ -8,10 +8,10 @@ The working directory was the /home directory. cd is used to change directories,
 
 2. Path to Directory
    ```
-   * ![Image](Cd_With_Argument.PNG)
-   * the working directory was home directory
-   * cd is used to change directories and the path specified was to lecture1, therefore we switched to lecture1
-   * the output is not an error because this is a valid command
+   ![Image](Cd_With_Argument.PNG)
+    the working directory was home directory
+    cd is used to change directories and the path specified was to lecture1, therefore we switched to lecture1
+   the output is not an error because this is a valid command
 ```
 4. Path to File
    * ![Image](path_to_file.png)
