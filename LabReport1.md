@@ -1,6 +1,6 @@
 # **Cd**
 <br />
- 1. No Arguments
+  No Arguments
 ```
 [user@sahara ~]$ cd
 [user@sahara ~]$ 
