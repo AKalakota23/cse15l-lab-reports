@@ -61,9 +61,11 @@ class StringServer {
 ```
 ## Part 2
 ![IMG](lab_2_priv_keys.png)
+
 Path to private key for SSH Key
 
 ![IMG](lab_2_pub_keys.png)
+
 Path to public key for SSH key
 
 ![IMG](lab_2_log_in_no_pass.png)
