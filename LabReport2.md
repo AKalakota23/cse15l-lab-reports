@@ -70,3 +70,6 @@ Path to public key for SSH key
 
 ![IMG](lab_2_log_in_no_pass.png)
 Logging into ieng6 without password
+
+## Part 3
+In week 2, I learned how to remotely connect to a server using the ssh command. In week 3, I learned how to set up ssh keys for easier access so that I can ssh into my remote account without entering a password.
