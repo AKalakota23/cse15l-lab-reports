@@ -20,10 +20,12 @@ Non-Failure Inducing Input:
   }
 ```
 Symptoms:
+
 Failure Inducing Input:
 ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/371db1532f8edb130955129f20b3163beb978a0c/Screenshot%202023-11-04%20at%203.35.26%20PM.png)
+
 Non-Failure Inducing Input:
-![Image](<img width="466" alt="Screenshot 2023-11-04 at 3 38 24 PM" src="https://github.com/AKalakota23/cse15l-lab-reports/assets/122422354/fa3276b7-f06a-425b-8b82-b9a14dcb96cb">)
+![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/53189bab61e7ca62d77f139810257549f97939c0/Screenshot%202023-11-04%20at%203.38.24%20PM.png)
 
 Bugged Code:
 ```
