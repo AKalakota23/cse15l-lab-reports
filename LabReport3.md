@@ -21,8 +21,7 @@ Non-Failure Inducing Input:
 ```
 Symptoms:
 Failure Inducing Input:
-![Image](<img width="776" alt="Screenshot 2023-11-04 at 3 35 26 PM" src="https://github.com/AKalakota23/cse15l-lab-reports/assets/122422354/73a2396c-a1f7-42a2-9a1d-3d5004436ea1">)
-
+![Image](Screenshot 2023-11-04 at 3.35.26 PM.png)
 Non-Failure Inducing Input:
 ![Image](<img width="466" alt="Screenshot 2023-11-04 at 3 38 24 PM" src="https://github.com/AKalakota23/cse15l-lab-reports/assets/122422354/fa3276b7-f06a-425b-8b82-b9a14dcb96cb">)
 
