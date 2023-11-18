@@ -22,10 +22,10 @@ Non-Failure Inducing Input:
 Symptoms:
 
 Failure Inducing Input:
-![Image](Screenshot 2023-11-04 at 3.38.24 PM.png)
+![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/6556ea41eacdc21c2e03b23e85cf34e172a74e03/Screenshot%202023-11-04%20at%203.35.26%20PM.png)
 
 Non-Failure Inducing Input:
-![Image](Screenshot 2023-11-04 at 3.38.24 PM.png)
+![Image]()
 
 Bugged Code:
 ```
