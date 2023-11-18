@@ -25,7 +25,7 @@ Failure Inducing Input:
 ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/6556ea41eacdc21c2e03b23e85cf34e172a74e03/Screenshot%202023-11-04%20at%203.35.26%20PM.png)
 
 Non-Failure Inducing Input:
-![Image]()
+![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/546163f79d7fc05d81e6b11e52c7546d170323a0/Screenshot%202023-11-04%20at%203.38.24%20PM.png)
 
 Bugged Code:
 ```
