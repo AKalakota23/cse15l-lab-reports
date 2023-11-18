@@ -73,6 +73,7 @@ technical/biomed/gb-2001-2-12-research0055.txt
 technical/biomed/gb-2001-2-2-research0004.txt
 technical/biomed/gb-2001-2-3-research0007.txt
 ```
+This specific input is indexing all the places where "research" is included. This is pretty useful when wanting to search for a specific pattern in a directory.
 
 Input:
 ```
@@ -143,6 +144,7 @@ State Justice Communities
 Indicators of success --We endorse a common vision of diversity
 and goal for achievement on the national, state and local levels,
 ```
+This input works by adding marks to any line and when you press ' followed by the marked letter, you are sent back to the marked line. In this case, we are using "a" as the marked letter and using it to go back to the position we marked.
 
 Input:
 ```
@@ -202,6 +204,7 @@ the context of a series of dialogues on diversity that NLADA and
 LSC are holding throughout the year and in the context of the
 diversity_priorities.txt (file 1 of 2)
 ```
+This allows us to view both files in one terminal. The chosen parameters are the files you want to see and it works by typing out "less" followed by the files you want to view. This is useful if you want to look at more than one file in a terminal from a directory.
 
 Input:
 ```
@@ -286,6 +289,7 @@ Output:
      23 and cannot be divorced from consideration of the overall goals of
      24 the state delivery system, the state's past performance, current
 ```
+The -N command is printing the number of lines in CONFIG_STANDARDS.txt. This is pretty useful if you want to guage the length of the contents of a file through the usage of the number of lines.
 
 Input:
 ```
