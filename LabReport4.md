@@ -4,17 +4,19 @@
 
 ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/fcd3b54559326360773b19319bd2186fdb56a36e/Screenshot%202023-12-02%20at%206.03.58%20PM.png)
 
-Log into <ieng6>:
+##Log into <ieng6>:
 
-Keys Pressed: `<up>` `<enter>`
+Keys Pressed: `<up>` `<enter>`  
+`<up` and `<enter>` was a faster and more convenient way to log into ieng6 as that command was previously used.
 
 
-Clone your fork of the repository from your Github account (using the SSH URL):
+##Clone your fork of the repository from your Github account (using the SSH URL):
 
 ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/c2ee7542c3f31e8562ee126560a33b0cb9155f06/Screenshot%202023-12-02%20at%206.31.05%20PM.png)
 
 Keys Pressed: `<ctrl> r g <enter> `
 
+`<ctrl r` is a fast way to search through the command line recursively in the command history. 
 
 ##Run the tests, demonstrating that they fail
 
