@@ -11,6 +11,8 @@ Keys Pressed: `<up>` `<enter>`
 
 Clone your fork of the repository from your Github account (using the SSH URL):
 
+![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/c2ee7542c3f31e8562ee126560a33b0cb9155f06/Screenshot%202023-12-02%20at%206.31.05%20PM.png)
+
 Keys Pressed: `<ctrl> r g <enter> `
 
 
