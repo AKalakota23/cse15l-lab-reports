@@ -27,7 +27,7 @@ Keys Pressed: `<up> <up> <up> <up> <enter>` Then the `java -cp .:lib/hamcrest-co
 
 
 
-Edit the code file to fix the failing test
+##Edit the code file to fix the failing test
 
 ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/128a0604b80433f530f84a66dd307f4533f80f38/Screenshot%202023-12-02%20at%207.03.18%20PM.png)
 ![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/fdc5f132cd3f4d2914218ab2863163c747e0d2f2/Screenshot%202023-12-02%20at%207.07.14%20PM.png)
@@ -37,12 +37,15 @@ Keys Pressed: `vim <shift> L <tab> . <tab> 43 j e r 2 <shift> : w q <enter>`
 We need to use `vim` on the specific file we want to edit and the one we are going to edit is ListExamples.java.  We can type `vim` followed by L and then a `<tab>` to finish the rest of the file name and a . and then another `<tab>` to finish the .java part.
 
 
-Run the tests, demonstrating that they now succeed
+##Run the tests, demonstrating that they now succeed
+
+![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/a75eb096c347fd2199f23c8e61ab9f1be602132f/Screenshot%202023-12-02%20at%207.11.32%20PM.png)
 
 Keys Pressed: `bash t <tab> <enter>`
 
+I entered bash and then t followed by a `<tab>` to quickly fill in the rest of the file name and then `<enter>`.
 
-Commit and push the resulting change to your Github account (you can pick any commit message!)
+##Commit and push the resulting change to your Github account (you can pick any commit message!)
 
 Keys Presesd: `<ctrl> r g i t c o <enter> g i t p  <enter>`
 
