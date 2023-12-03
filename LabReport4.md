@@ -20,8 +20,10 @@ Keys Pressed: `<ctrl> r g <enter> `
 
 ##Run the tests, demonstrating that they fail
 
+![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/dc3a82799032bd74bb4f022e42286b9c1367c672/Screenshot%202023-12-02%20at%206.55.55%20PM.png)
+
 Keys Pressed: `<up> <up> <up> <enter>` The `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command was 3 up in the search history, so I used the up arrow to access it.
-Keys Pressed: `<up> <up> <up> <up> <enter>` Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ...` command was 4 up in search history, so I accessed it the samw way
+Keys Pressed: `<up> <up> <up> <up> <enter>` Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ...` command was 4 up in search history, so I accessed it the same way
 
 
 
