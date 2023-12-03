@@ -2,7 +2,7 @@
 
 ## Steps
 
-<img src = "https://github.com/AKalakota23/cse15l-lab-reports/blob/fcd3b54559326360773b19319bd2186fdb56a36e/Screenshot%202023-12-02%20at%206.03.58%20PM.png">
+<img width="466" alt="Screenshot 2023-12-02 at 6 03 58 PM" src="https://github.com/AKalakota23/cse15l-lab-reports/assets/122422354/37945d8c-5350-4d3f-b339-2eb839b7015e">
 
 ##Log into <ieng6>:
 
@@ -12,7 +12,7 @@ Keys Pressed: `<up>` `<enter>`
 
 ##Clone your fork of the repository from your Github account (using the SSH URL):
 
-![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/c2ee7542c3f31e8562ee126560a33b0cb9155f06/Screenshot%202023-12-02%20at%206.31.05%20PM.png)
+<img width="564" alt="Screenshot 2023-12-02 at 6 31 05 PM" src="https://github.com/AKalakota23/cse15l-lab-reports/assets/122422354/4233952f-2f25-4c55-8121-01904bef304a">
 
 Keys Pressed: `<ctrl> r g <enter> `
 
@@ -20,7 +20,7 @@ Keys Pressed: `<ctrl> r g <enter> `
 
 ##Run the tests, demonstrating that they fail
 
-![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/dc3a82799032bd74bb4f022e42286b9c1367c672/Screenshot%202023-12-02%20at%206.55.55%20PM.png)
+<img width="564" alt="Screenshot 2023-12-02 at 6 55 55 PM" src="https://github.com/AKalakota23/cse15l-lab-reports/assets/122422354/3944ca18-28d0-426a-ba24-59a3ddf9bdd5">
 
 Keys Pressed: `<up> <up> <up> <enter>` The `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command was 3 up in the search history, so I used the up arrow to access it.
 Keys Pressed: `<up> <up> <up> <up> <enter>` Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ...` command was 4 up in search history, so I accessed it the same way
@@ -29,8 +29,8 @@ Keys Pressed: `<up> <up> <up> <up> <enter>` Then the `java -cp .:lib/hamcrest-co
 
 ##Edit the code file to fix the failing test
 
-![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/128a0604b80433f530f84a66dd307f4533f80f38/Screenshot%202023-12-02%20at%207.03.18%20PM.png)
-![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/fdc5f132cd3f4d2914218ab2863163c747e0d2f2/Screenshot%202023-12-02%20at%207.07.14%20PM.png)
+<img width="404" alt="Screenshot 2023-12-02 at 7 03 18 PM" src="https://github.com/AKalakota23/cse15l-lab-reports/assets/122422354/f89bea0d-e115-4224-84a4-7d418ca9dc86">
+<img width="345" alt="Screenshot 2023-12-02 at 7 07 14 PM" src="https://github.com/AKalakota23/cse15l-lab-reports/assets/122422354/77afde5b-6bb5-4c9a-a36e-8a88365711a7">
 
 Keys Pressed: `vim <shift> L <tab> . <tab> 43 j e r 2 <shift> : w q <enter>`
 
@@ -39,7 +39,7 @@ We need to use `vim` on the specific file we want to edit and the one we are goi
 
 ##Run the tests, demonstrating that they now succeed
 
-![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/a75eb096c347fd2199f23c8e61ab9f1be602132f/Screenshot%202023-12-02%20at%207.11.32%20PM.png)
+<img width="357" alt="Screenshot 2023-12-02 at 7 11 32 PM" src="https://github.com/AKalakota23/cse15l-lab-reports/assets/122422354/a1073c80-8997-4c69-b8f8-7c8a9c18969d">
 
 Keys Pressed: `bash t <tab> <enter>`
 
@@ -47,7 +47,7 @@ I entered bash and then t followed by a `<tab>` to quickly fill in the rest of t
 
 ##Commit and push the resulting change to your Github account (you can pick any commit message!)
 
-![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/585d8d3e4e7dacff3f44c60146673bd4d4d023d6/Screenshot%202023-12-02%20at%207.17.16%20PM.png)
+<img width="564" alt="Screenshot 2023-12-02 at 7 17 16 PM" src="https://github.com/AKalakota23/cse15l-lab-reports/assets/122422354/ee2f1249-f746-45ad-807c-b95081012bbf">
 
 Keys Presesd: `<ctrl> r g i t c o <enter> g i t p  <enter>`
 
