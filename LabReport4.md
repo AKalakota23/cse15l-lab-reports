@@ -28,9 +28,11 @@ Keys Pressed: `<up> <up> <up> <up> <enter>` Then the `java -cp .:lib/hamcrest-co
 
 
 Edit the code file to fix the failing test
+![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/128a0604b80433f530f84a66dd307f4533f80f38/Screenshot%202023-12-02%20at%207.03.18%20PM.png)
 
 Keys Pressed: `vim <shift> L <tab> . <tab> 43 j e r 2 <shift> : w q <enter>`
 
+We need to use `vim` on the specific file we want to edit and the one we are going to edit is ListExamples.java.  We can type `vim` followed by L and then a `<tab>` to finish the rest of the file name and a . and then anther `<tab>` to finish the .java part.
 
 Run the tests, demonstrating that they now succeed
 
