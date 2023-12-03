@@ -2,6 +2,7 @@
 
 ## Steps
 
+!IMG[https://github.com/AKalakota23/cse15l-lab-reports/blob/fcd3b54559326360773b19319bd2186fdb56a36e/Screenshot%202023-12-02%20at%206.03.58%20PM.png]
 Log into <ieng6>:
 
 Keys Pressed: `<up>` `<enter>`
