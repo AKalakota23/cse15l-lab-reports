@@ -47,5 +47,8 @@ I entered bash and then t followed by a `<tab>` to quickly fill in the rest of t
 
 ##Commit and push the resulting change to your Github account (you can pick any commit message!)
 
+![Image](https://github.com/AKalakota23/cse15l-lab-reports/blob/585d8d3e4e7dacff3f44c60146673bd4d4d023d6/Screenshot%202023-12-02%20at%207.17.16%20PM.png)
+
 Keys Presesd: `<ctrl> r g i t c o <enter> g i t p  <enter>`
 
+I used `<ctrl> r` to recursively search through the command history to find `git commit` and `git push`. I didn't have to type out the whole thing as the rest of the command would appear. I then pressed `<enter>` following the git commands. 
